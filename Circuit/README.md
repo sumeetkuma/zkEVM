@@ -31,7 +31,7 @@ To use this circuit, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YashUpadhyay0456/poly-proof-3rd-assessment.git
+git clone https://github.com/sumeetkuma/poly-proof-3rd-assessment.git
 cd poly-proof-3rd-assessment
 ```
 
