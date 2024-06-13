@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AssesmentCircuit",
+    "protocol": "groth16",
+    "circuit": "AssesmentCircuit/circuit.circom",
+    "input": "AssesmentCircuit/input.json",
+    "wasm": "AssesmentCircuit/out/circuit.wasm",
+    "zkey": "AssesmentCircuit/out/AssesmentCircuit.zkey",
+    "vkey": "AssesmentCircuit/out/AssesmentCircuit.vkey",
+    "r1cs": "AssesmentCircuit/out/AssesmentCircuit.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
